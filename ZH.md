@@ -21,3 +21,9 @@
     b. GitLab
     c. CVS
     d. Git
+    
+5. Mit csinál a git clone --shallow-since=<date>
+    a. kommentel
+    b. készít egy felszínes klónt az adott dátum utáni előzményekkel
+    c. készít egy git repót
+    d. repository és globális beállítások menedzselése
